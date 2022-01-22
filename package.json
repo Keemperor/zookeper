@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/Keemperor/zookeper#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "jester": "^0.2.3"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
